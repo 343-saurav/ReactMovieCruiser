@@ -1,0 +1,85 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "Don",
+      "releaseDate": "1975",
+      "posterPath": "https://s.saregama.tech/image/c/fw_485/3/5b/ef/don_1437637373.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Lagaan",
+      "releaseDate": "2004",
+      "posterPath": "https://th.bing.com/th?id=OIP.bPBCgvp9N0SUbVYJnBg2IQHaEo&w=316&h=197&c=8&rs=1&qlt=90&o=6&dpr=2.5&pid=3.1&rm=2"
+    },
+    {
+      "id": "3",
+      "title": "Animal",
+      "releaseDate": "2004",
+      "posterPath": "https://wallpaperbuzz.net/wp-content/uploads/2023/11/Animal-HD-WAllpaper-22.jpg"
+    },
+    {
+      "title": "das",
+      "releaseDate": "231",
+      "movieName": "A",
+      "movieRelease": "2019",
+      "id": "UvHVagU"
+    },
+    {
+      "title": "dasss",
+      "releaseDate": "2312",
+      "movieName": "A",
+      "movieRelease": "2019",
+      "id": "uU4S6F7"
+    },
+    {
+      "title": "xyz",
+      "releaseDate": "2019",
+      "id": "HXzYLHf"
+    },
+    {
+      "title": "chirag",
+      "releaseDate": "2023",
+      "id": "goEi4Ju"
+    },
+    {
+      "title": "souerAV",
+      "releaseDate": "312",
+      "id": "gJWwxFT"
+    },
+    {
+      "title": "SAD",
+      "releaseDate": "213",
+      "id": "j1fjSoQ"
+    },
+    {
+      "title": "animal2",
+      "releaseDate": "2019",
+      "id": "KPInkTk"
+    },
+    {
+      "title": "",
+      "releaseDate": "",
+      "id": "PovWgzK"
+    }
+  ],
+  "favourites": [
+    {
+      "title": "Animal",
+      "releaseDate": "2004",
+      "posterPath": "https://wallpaperbuzz.net/wp-content/uploads/2023/11/Animal-HD-WAllpaper-22.jpg",
+      "id": 1
+    },
+    {
+      "title": "Don",
+      "releaseDate": "1975",
+      "posterPath": "https://s.saregama.tech/image/c/fw_485/3/5b/ef/don_1437637373.jpg",
+      "id": 2
+    },
+    {
+      "title": "SAD",
+      "releaseDate": "213",
+      "id": 3
+    }
+  ]
+}
